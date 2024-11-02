@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "9a823aed-4ca5-45ef-9f9b-ed614b266c12",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1730506002791"
+        }
+      },
+      "favorite": {
+        "name": "PelisDB",
+        "color": "color5"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://PelisDB:Roger.Mondragon2025@bdpeliculas.hbphd.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
